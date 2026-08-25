@@ -2351,6 +2351,14 @@
 		"modversion": "0.1.5",
 		"gameversion": "0.3.2",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClippingBarrier.zip"
+	},
+	{
+	"name": "Insertion Bulges",
+	"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+	"author": "xrob1",
+	"modversion": "1.0",
+	"gameversion": "0.3.2",
+	"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
 	}
 	]
 }
