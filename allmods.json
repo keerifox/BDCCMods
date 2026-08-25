@@ -2343,6 +2343,14 @@
 		"modversion": "0.4.1",
 		"gameversion": "0.3.*,0.3.2,0.3.1,0.3.0,0.2.5,0.2.4,0.1.12,0.1.11,0.1.10",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
+	},
+	{
+		"name": "ClippingBarrier",
+		"description": "Are you bothered by phalluses poking out in places where they shouldn't? ClippingBarrier projects an invisible wall of 'no penis' around the torso of your character, hiding any wayward dongs from view! Uses similar logic to 'NoPretendSex' and the method of overriding sex scenes, so credit to NatiM6! But sadly this mod is not compatible with that one. (note: in rare cases, the anti-schlong wall may also hide the right arm and right leg)\n\nCompatibility with other mods: This mod targets the base game Part3D.gd file, and overrides a large number of stagescene3D files. It applies an invisible mask with shader to any bodypart that ends in 'Body', and changes the render priority of first two meshes (penis texture and condom texture) of the Bodypart.Penis slot. Any modded bodyparts which obey this logic will be compatible. \n\n(any objects rendered after (behind) the mask become transparent, which sometimes includes the right arm and right leg.)\n\nKNOWN BUG: Will crash if strapons are involved, because it doesn't take up a body slot and I'm dumb",
+		"author": "bringlebangul",
+		"modversion": "0.1.5",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/ClippingBarrier.zip"
 	}
 	]
 }
