@@ -2185,14 +2185,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/PiercingsMod_v1.5.zip"
 	},
 	{
-		"name": "VoreMod",
-		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've finally finished the new version of the mod. I'm sorry it took a long time before I released it. but I hope you gona like it. I added the resizing system as I wanted, and now you can shrink the npc and carry it in your pocket, use it as a dildo or butt/vaginal plug. But of course the size system is very limited so as not to cause critical bugs in the game. however, there are probably a lot of bugs in mod that I and my teammate couldn't notice, so if you find a bug, I'll be glad if you let me know about it.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
-		"author": "bebrenkov_01",
-		"modversion": "1.3",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
-	},
-	{
 		"name": "RAT Bodypart Archetypes",
 		"description": "CREDIT: Coded by Selinoccino\nDESCRIPTION: A system designed to assign archetypes to species allowing for alternate bodypart selections within Dynamic character generation. Replaces the mod options for my other species mods\nCOMPATABILITY: Foxlib\nCHANGELOG: Removed archetypes to be built into mods directly\nNOTE: @ me or @Selinoccino  make a thread if anything is broken.\nThere is a [url=https://ko-fi.com/averyshobbies]Kofi link[/url] if anyone wants to show financial appreciation for my time.\n\nNOTE: DOES NOTHING ON ITS OWN, PROVIDES THE FRAMEWORK FOR OTHER MODS TO ADD ARCHETYPES TO DYNAMIC NPC GEN\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/RAT_BodypartArchetypes.png]Click for Preview[/url]",
 		"author": "Avery Winters",
@@ -2367,6 +2359,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SoundMod_BGM.zip"
+	},
+	{
+		"name": "VoreMod",
+		"description": "Adds a Vore skill tree that allows you to swallow NPCs whole. Swallowed NPCs are digested over time, providing buffs for each digested NPC. (I've read the complaints and fixed some issues with the mod. if one of the problems you mentioned is not fixed, write about it, I tried to fix everything, but there is a chance that something may still work strangely or badly. New perks have been introduced to solve several problems.)\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/VoreMod.png]Click for Preview[/url]",
+		"author": "bebrenkov_01",
+		"modversion": "1.3.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
 	}
 	]
 }
