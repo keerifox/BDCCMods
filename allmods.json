@@ -1993,14 +1993,6 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SongsVanillaParts_v1.4.5fix1.zip"
 	},
 	{
-		"name": "Sugerør's Draconic Sea Mons Species",
-		"description": "Adds Lugia and Dragonite into the game\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png]Click for Preview[/url]",
-		"author": "Sugerør",
-		"modversion": "1.0",
-		"gameversion": "*",
-		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrDraconicSeaMonsv1.0.zip"
-	},
-	{
 		"name": "Async Graffiti",
 		"description": "Take note: this is just a beta test version. There are still a lot of unpolished things, and the mod is pretty much unmoderated and bypassable.\n\nYou can leave graffiti on walls in every room in the game, and other players who have this mod installed can see it.\nTo make graffiti, go to the \"Me\" tab and click \"Leave graffiti\", or open \"Graffiti\" in a room. First, you will need to register your nickname. After it's registered, you can start leaving graffiti.\nThere are a few text options, such as bold, italic, changeable font and color.\nThere is a limit of 10 graffiti per hour.\n\nPlease use your Discord nickname if possible. Don't impersonate others. After registration, your nick is unchangeable. If you really want it changed, you can just ping me.\n\nDo not mess with or delete the async_graffiti_settings.json file! It is essential for the mod to work properly.\n\nI'm aware there are ways to bypass some stuff, but please be fair and don't do this.\nI'll be banning all sorts of spam, so please leave graffiti with messages that make sense. I will delete meaningless gibberish.\nIf you find any bugs, encounter any problems, or just have an idea what to add to make the mod better, feel free to ping me.\n\nCHANGELOG ver 0.2:\nAdded the ability to like and unlike other players' graffiti.\nThere is also a whole new profile system. Each player has their own profile with some basic stats like followers and likes, and you can follow other players.\nThere is also a leaderboard button that lets you see the player with the most likes, the player with the most followers, and the single graffiti with the most likes.\n\nShoutout to Mindstormsman for the idea!",
 		"author": "Doggo :3",
@@ -2289,12 +2281,12 @@
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/JunkieRehabilitation.zip"
 	},
 	{
-	"name": "Insertion Bulges",
-	"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
-	"author": "xrob1",
-	"modversion": "1.0",
-	"gameversion": "0.3.2",
-	"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
+		"name": "Insertion Bulges",
+		"description": "[b]Bodies stretch around what is inside them[/b]\nInstead of an oversized shaft drawing straight through the body it is in, the body swells around it and the inserted stretch is hidden.\n\n[b]Please read first:[/b]\n-- This is a very early release. It may not work at all on your setup, and it may look wrong in scenes I have not reached yet.\n-- It has only been tested against the [b]vanilla game[/b]. It may not work alongside other mods, and it replaces some of the game's own files, so anything else that touches bodyparts, skins or the doll is likely to conflict.\n-- Tell me what breaks and I will look at it.\n\n[b]Mod Features:[/b]\n-- Works on anal, vaginal and throat\n-- Any cock in the game, and all eight rigged strapons\n-- Detection is purely geometric, so hand written scenes and modded parts are covered with nothing scripted per scene\n-- Depth follows the animation on its own, so the bulge moves with the thrust\n-- Size is measured from the shaft's own artwork: a knot or an equine flare reads as it goes in\n-- A big shaft in a tight hole reacts harder, using the game's own free room measure\n-- Two bulges per character, so double penetration and spitroasts both work\n\n[b]Requires:[/b]\n-- Advanced skin shaders enabled in Options, Display. Without them the mod does nothing.\n\n[b]Known limits:[/b]\n-- Clothing does not bulge, rigged clothes do not use the skin shader\n-- Dildos, fuck machines and tentacles are not covered yet\n\n[i]Ping me for bugs and feedback[/i]\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/InsertionBulges.png]Click for Preview[/url]",
+		"author": "xrob1",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/InsertionBulges_v1.0.zip"
 	},
 	{
 		"name": "ClippingBarrier",
@@ -2367,6 +2359,22 @@
 		"modversion": "1.3.1",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/VoreMod.zip"
+	},
+	{
+		"name": "Sugerør's Draconic Sea Mons Species",
+		"description": "Adds Lugia and Dragonite into the game\nNew: Fixed an issue with the dragonite tail clipping oddly in some poses.\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/SugerrDraconicSeaMons.png]Click for Preview[/url]",
+		"author": "Sugerør",
+		"modversion": "1.1",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/SugerrDraconicSeaMonsv1.1.zip"
+	},
+	{
+		"name": "OrbitalStrike",
+		"description": "Adds a dumb joke attack.",
+		"author": "bringlebangul",
+		"modversion": "1.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OrbitalStrike.zip"
 	}
 	]
 }
