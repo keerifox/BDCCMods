@@ -2375,6 +2375,14 @@
 		"modversion": "1.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/OrbitalStrike.zip"
+	},
+	{
+		"name": "Gangbang Initiator",
+		"description": "I've always felt the gangbang mechanic in this game is underutilized so I've cooked up little module.\n\nAdds a \"Gangbang Initiator\" perk to the Sex Slave skill tree (unlocks at skill level 10). Once learned, talking to an NPC gives you the option to ask them to join a group you're putting together. Recruit up to 6 people this way, then trigger the scene with any of them to start it.\n\nThe actual encounter cycles through DP, spitroast, and full gangbang positions with the group (simillar to Artica), refreshing who's involved as it goes. Everyone in the group (including the pc) rotates through giving and receiving.\n\n(This is my first mod ;; plz tell me if something's not right. Note for other modders: this mod overrides Talking.gd wholesale to add its options, so it will conflict with any other mod that also modifies that file :vvvvv)\n\nAdria\n\n[url=https://raw.githubusercontent.com/Alexofp/BDCCMods/main/previews/GangbangInitiator.png]Click for Preview[/url]",
+		"author": "Adria",
+		"modversion": "1.0.0",
+		"gameversion": "*",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GangbangInitiator.zip"
 	}
 	]
 }
