@@ -2383,6 +2383,14 @@
 		"modversion": "1.0.0",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/GangbangInitiator.zip"
+	},
+	{
+		"name": "Fashion of the Emerald Serpent",
+		"description": "I have been given the gracious liberty to work with @JokeMysterious and his new project, The Emerald Serpent.\n\nMore specifically, the outfits and a bit writing (turns out, we have similar writing styles.).\n\nBut I've been give the green light to show off early the outfits I've made!\n\nIncluded is:\nSerpent Piercings - Nipple piercings with a banner\nSerpent Loincloth - A loincloth that covers the penis \nOrnate Serpent Collar - A collar worn by all the snakes in the Harem\nControlled Ornate Serpent Collar - A special Serpent Collar with restraining properties\n!More will be added!\n\nEverything bar the Controlled collar is sold by the Announcer (or available for free via the debug menu)\n(MADE IN POWERLOOM)",
+		"author": "JokeMysterious/WolfStarArt",
+		"modversion": "1.0",
+		"gameversion": "0.3.2",
+		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/serpentfashion.zip"
 	}
 	]
 }
